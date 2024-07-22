@@ -48,3 +48,9 @@ Starts with the number of the problem, followed by the input values for the prob
 ### Output file
 
 Starts with the number of the problem, followed by the corresponding output values of the input for the problem, then “x” to indicate the output for this problem is finished and to move to the next problem.
+
+---
+
+![image](https://github.com/user-attachments/assets/44395827-878e-4072-9ff7-abf9fb3dcabe)
+
+
