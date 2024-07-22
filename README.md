@@ -21,13 +21,11 @@
 
 ---
 
-## Assignment 2
+## Assignment 2: DFA & NFA
 
 Cairo University  
 Faculty of Computers and Artificial Intelligence  
 Theory of Computations Course (Spring 2024) 
-
-### Assignment 2: DFA & NFA
 
 ### Instructions
 
