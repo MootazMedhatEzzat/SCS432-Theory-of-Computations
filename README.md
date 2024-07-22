@@ -29,10 +29,9 @@ Theory of Computations Course (Spring 2024)
 
 ### Instructions
 
-- The assignment is submitted in groups of minimum 2 and maximum 4 students from the same lab or the same TA.
 - The deadline for submission is on Tuesday, 23/4 at 11:59 pm.
 - Submission will be on Google Classroom. No late submission or email submission is allowed.
-- Please submit one compressed folder with the `.java` files and a PDF file. The folder name should follow this structure: `ID1_ID2_ID3_ID4_GROUP.zip`.
+- Please submit one compressed folder with the `.java` files and a PDF file. The folder name should follow this structure: `STUDENT-ID_GROUP.zip`.
 - In case of cheating, you will get a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
 
 ### Requirements
