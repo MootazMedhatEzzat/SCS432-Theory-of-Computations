@@ -3,7 +3,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td colspan="2" align="center"><strong>{ Assignment 2: (DFA & NFA) }</strong></td>
+      <td colspan="2" align="center"><strong>{ Assignment 2: DFA & NFA }</strong></td>
     </tr>
     <tr>
       <td align="left"><strong>Name</strong>: Mootaz Medhat Ezzat Abdelwahab</td>
@@ -11,7 +11,7 @@
     </tr>
     <tr>
       <td align="left"><strong>Program</strong>: Software Engineering</td>
-      <td align="right"><strong>Group</strong>: B (S5)</td>
+      <td align="right"><strong>Group</strong>: B (S6)</td>
     </tr>
     <tr>
       <td align="center" colspan="2"><strong>Delivered To:</strong><br>DR. Samar Hesham Ahmed<br>TA. Ibrahim Adel</td>
