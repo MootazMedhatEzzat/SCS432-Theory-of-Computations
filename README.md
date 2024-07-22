@@ -29,35 +29,44 @@ Theory of Computations Course (Spring 2024)
 
 ### Instructions
 
-- The assignment must be completed in groups of 2 to 4 students from the same lab or with the same TA.
-- Submission deadline: Tuesday, 23/4 at 11:59 pm.
-- Submit your work on Google Classroom. No late submissions or submissions via email will be accepted.
-- Your submission should be a compressed folder containing all necessary .java files and a PDF file. The folder name should follow the format: ID1_ID2_ID3_ID4_GROUP.zip
-- Any form of cheating, including sharing or taking code from others, will result in a negative grade. This includes giving, receiving, or sending code for any reason.
+- The assignment is submitted in groups of minimum 2 and maximum 4 students from the same lab or the same TA.
+- The deadline for submission is on Tuesday, 23/4 at 11:59 pm.
+- Submission will be on Google Classroom. No late submission or email submission is allowed.
+- Please submit one compressed folder with the `.java` files and a PDF file. The folder name should follow this structure: `ID1_ID2_ID3_ID4_GROUP.zip`.
+- In case of cheating, you will get a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
 
 ### Requirements
 
-1. **Solve all 10 problems**.
-2. For each problem:
-   - Draw the corresponding DFA or NFA.
-   - Write Java code that solves the problem.
-   - Submit a PDF file with the drawn DFA or NFA for each problem.
-3. The Java program must handle:
-   - **Input File**: Starts with the problem number, followed by the input values for the problem, and ends with "end" to indicate the end of input for that problem.
-   - **Output File**: Starts with the problem number, followed by the output values for the input, and ends with "x" to indicate the end of output for that problem.
+- Solve all the 10 problems.
+- For each problem, you should submit the drawn FSA and Java code that solves it.
+- For all problems, write in Java Language.
+- Submit a PDF file that contains the drawn DFA or NFA for the problems.
+- The Java program will take ONE input text file containing the input values for each problem. The program must save the output of each problem in ONE output text file following the required format for each problem.
 
-### Submission Details
+### Input file
 
-- Ensure that the Java code files are named clearly and organized.
-- The PDF should include all DFA or NFA diagrams with clear labels.
-- The input and output files should adhere to the specified format.
+Starts with the number of the problem, followed by the input values for the problem, then “end” to indicate the input for this problem is finished and to move to the next problem.
 
-### Grading Criteria
+### Output file
 
-The assignment will be graded based on the following:
-- **Accuracy and Completeness of Solutions**: 40%
-- **Correctness of Java Code**: 30%
-- **Clarity and Organization of Documentation**: 20%
-- **Adherence to Submission Guidelines**: 10%
+Starts with the number of the problem, followed by the corresponding output values of the input for the problem, then “x” to indicate the output for this problem is finished and to move to the next problem.
 
-Total marks: 100 (will be scaled as per course requirements).
+### DFA
+
+Simulate a Deterministic Finite Automaton (DFA):
+
+- The DFA's states
+- The alphabet
+- The transition function
+- The start state
+- The set of accepting states
+
+### NFA
+
+Simulate a Nondeterministic Finite Automaton (NFA):
+
+- The NFA's states
+- The alphabet
+- The transition function
+- The start state(s)
+- The set of accepting states
