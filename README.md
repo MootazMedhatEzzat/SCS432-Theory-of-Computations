@@ -52,6 +52,7 @@ Starts with the number of the problem, followed by the corresponding output valu
 ---
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/e2311b00-faf4-4912-aa1b-1b3df9e20cb4" alt="image">
   <img src="https://github.com/user-attachments/assets/9068a73b-b41f-493d-874b-28ce02bad6a0" alt="image">
   <img src="https://github.com/user-attachments/assets/083e22f5-9ede-42aa-8381-0fc7dcccd928" alt="image">
 
