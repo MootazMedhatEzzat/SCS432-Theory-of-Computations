@@ -81,3 +81,12 @@ Simulate a Nondeterministic Finite Automaton (NFA):
 - The transition function
 - The start state(s)
 - The set of accepting states
+
+---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1a5fc7cb-aeaf-4d04-8d71-8fd573f8827d" alt="image">
+  <img src="https://github.com/user-attachments/assets/04e16b0b-8fdd-471a-a235-9d9c2a066bd6" alt="image">
+</div>
+
+---
