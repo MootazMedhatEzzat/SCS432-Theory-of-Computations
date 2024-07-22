@@ -61,6 +61,17 @@ Simulate a Deterministic Finite Automaton (DFA):
 - The start state
 - The set of accepting states
 
+---
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/385b0559-9d67-4b23-bd6e-43a5b1267eba" alt="image">
+  <img src="https://github.com/user-attachments/assets/cc668e7a-2427-4d03-bebc-0043c72f41ba" alt="image">
+  <img src="https://github.com/user-attachments/assets/07da3898-78e4-4b93-9886-d09bd73a2b18" alt="image">
+  <img src="https://github.com/user-attachments/assets/2e822b7c-0262-4500-9c73-e8bf1c45f0cd" alt="image">
+</div>
+
+---
+
 ### NFA
 
 Simulate a Nondeterministic Finite Automaton (NFA):
