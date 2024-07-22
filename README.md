@@ -53,12 +53,8 @@ Starts with the number of the problem, followed by the corresponding output valu
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e2311b00-faf4-4912-aa1b-1b3df9e20cb4" alt="image">
-  <img src="https://github.com/user-attachments/assets/9068a73b-b41f-493d-874b-28ce02bad6a0" alt="image">
-  <img src="https://github.com/user-attachments/assets/083e22f5-9ede-42aa-8381-0fc7dcccd928" alt="image">
-
-  <img src="https://github.com/user-attachments/assets/32d39a44-5e77-4da0-a170-5a2a12b0f3ed" alt="image">
-  <img src="https://github.com/user-attachments/assets/728f8560-7757-4697-aa4d-202770d5a7ba" alt="image">
-  <img src="https://github.com/user-attachments/assets/1eeaefb0-004a-44b1-b599-1ba161fc9d15" alt="image">
-  <img src="https://github.com/user-attachments/assets/d53c345b-7773-45a8-b6db-a18e98129d10" alt="image">
-  <img src="https://github.com/user-attachments/assets/b6d40633-f6da-4dfc-875e-ab99a784879b" alt="image">
+  <img src="https://github.com/user-attachments/assets/935d9505-f884-49f6-a136-b7e5683fa93e" alt="image">
+  <img src="https://github.com/user-attachments/assets/4c0b36e7-1c5c-4512-a13f-b58fef605112" alt="image">
+  <img src="https://github.com/user-attachments/assets/b2e6ff5f-01f3-4c4b-b266-8e026f2d2140" alt="image">
+  <img src="https://github.com/user-attachments/assets/2aa00685-1ee0-4d31-a2ce-ca58a0756fb1" alt="image">
 </div>
