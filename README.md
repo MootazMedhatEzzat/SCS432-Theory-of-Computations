@@ -51,6 +51,7 @@ Starts with the number of the problem, followed by the corresponding output valu
 
 ---
 
-![image](https://github.com/user-attachments/assets/44395827-878e-4072-9ff7-abf9fb3dcabe)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/44395827-878e-4072-9ff7-abf9fb3dcabe" alt="image">
+</div>
 
