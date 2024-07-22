@@ -56,4 +56,10 @@ Starts with the number of the problem, followed by the corresponding output valu
   <img src="https://github.com/user-attachments/assets/588aa024-c81c-43c4-8c92-5674c7118835" alt="image">
   <img src="https://github.com/user-attachments/assets/9068a73b-b41f-493d-874b-28ce02bad6a0" alt="image">
   <img src="https://github.com/user-attachments/assets/083e22f5-9ede-42aa-8381-0fc7dcccd928" alt="image">
+
+  <img src="https://github.com/user-attachments/assets/32d39a44-5e77-4da0-a170-5a2a12b0f3ed" alt="image">
+  <img src="https://github.com/user-attachments/assets/728f8560-7757-4697-aa4d-202770d5a7ba" alt="image">
+  <img src="https://github.com/user-attachments/assets/1eeaefb0-004a-44b1-b599-1ba161fc9d15" alt="image">
+  <img src="https://github.com/user-attachments/assets/d53c345b-7773-45a8-b6db-a18e98129d10" alt="image">
+  <img src="https://github.com/user-attachments/assets/b6d40633-f6da-4dfc-875e-ab99a784879b" alt="image">
 </div>
