@@ -27,14 +27,14 @@ Cairo University
 Faculty of Computers and Artificial Intelligence  
 Theory of Computations Course (Spring 2024) 
 
-### Instructions
+### 📋 Instructions
 
-- The deadline for submission is on Tuesday, 23/4 at 11:59 pm.
+- **⏰ The deadline for submission is on Tuesday, 23/4 at 11:59 pm**.
 - Submission will be on Google Classroom. No late submission or email submission is allowed.
 - Please submit one compressed folder with the `.java` files and a PDF file. The folder name should follow this structure: `STUDENT-ID_GROUP.zip`.
 - In case of cheating, you will get a negative grade whether you give the code to someone, take the code from someone/internet, or even send it to someone for any reason.
 
-### Requirements
+### ⚙️ Requirements
 
 - Solve all the 10 problems.
 - For each problem, you should submit the drawn FSA and Java code that solves it.
@@ -42,11 +42,11 @@ Theory of Computations Course (Spring 2024)
 - Submit a PDF file that contains the drawn DFA or NFA for the problems.
 - The Java program will take ONE input text file containing the input values for each problem. The program must save the output of each problem in ONE output text file following the required format for each problem.
 
-### Input file
+### 📥 Input file
 
 Starts with the number of the problem, followed by the input values for the problem, then “end” to indicate the input for this problem is finished and to move to the next problem.
 
-### Output file
+### 📄 Output file
 
 Starts with the number of the problem, followed by the corresponding output values of the input for the problem, then “x” to indicate the output for this problem is finished and to move to the next problem.
 
@@ -88,3 +88,42 @@ Simulate a Nondeterministic Finite Automaton (NFA):
 </div>
 
 ---
+
+### 🛠️ Programming Language and Development Tools Used
+
+<table align="center" border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Programming Language</th>
+      <th>Development Tool</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/9a33949e-43a8-4bcf-9151-a382ae05bd3a" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Java
+      </td>
+      <td align="center">
+        IntelliJ IDE
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 💬 Let's Connect
+Feel free to reach out to me if you'd like to collaborate on a project or discuss technology! As a Software Engineer, I'm always open to tackling new challenges, sharing knowledge, and growing through collaborative opportunities.
+
+**Mootaz Medhat Ezzat Abdelwahab**  
+🎓 Software Engineering Graduate | Faculty of Computers and Artificial Intelligence, Cairo University  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mootaz-medhat-ezzat-abdelwahab-377a60244)
