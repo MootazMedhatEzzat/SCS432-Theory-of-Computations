@@ -58,6 +58,8 @@ Starts with the number of the problem, followed by the corresponding output valu
   <img src="https://github.com/user-attachments/assets/2aa00685-1ee0-4d31-a2ce-ca58a0756fb1" alt="image">
 </div>
 
+---
+
 ### 🛠️ Programming Language and Development Tools Used
 
 <table align="center" border="1" cellpadding="10">
